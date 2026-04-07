@@ -7,7 +7,7 @@ project:
     enabled: true
     binder:
       url: https://terrarium.evidencepub.io
-      repo: moranebienvenu/stroke_article 
+      repo: moranebienvenu/stroke_article_backup
       ref: HEAD # Production will override this.
     kernel:
       name: python3
