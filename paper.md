@@ -307,7 +307,7 @@ Interactive correlation heatmaps showing the relationship between pre- and post-
 ***Users can select different sessions (V1, V2, V3), sex filters (men, women, all) and variables (synaptic ratio, neurotransmitter (Loc),neurotransmitter (Tract), clinical outcomes) to explore the data interactively.***
 :::
 
-Correlations between acute pre-synaptic ratios and chronic clinical outcomes were generally low and non-significant, likely due to the small sample size (n = 17; 8 men, 9 women; see Annex for details). 
+Correlations between acute pre-synaptic ratios and chronic clinical outcomes were generally low and non-significant, likely due to the small sample size (n = 17; 8 men, 9 women). 
 
 # Discussion
 

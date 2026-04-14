@@ -973,7 +973,7 @@ class DashNeuroTmapClient:
         
         # Widgets for Set 1
         session1 = widgets.Dropdown(options=['V1', 'V2', 'V3'], value='V1', description='Session 1:')
-        sex1 = widgets.Dropdown(options=['All', 'Men only', 'Women only'], value='Men only', description='Sex 1:')
+        sex1 = widgets.Dropdown(options=['All', 'Men only', 'Women only'], value='All', description='Sex 1:')
         outcome1 = widgets.Dropdown(
             options=['Synaptic ratio', 'Neurotransmitter (Loc)', 
                     'Neurotransmitter (Tract)', 'Clinical Outcomes'],
@@ -982,8 +982,8 @@ class DashNeuroTmapClient:
         )
         
         # Widgets for Set 2
-        session2 = widgets.Dropdown(options=['V1', 'V2', 'V3'], value='V1', description='Session 2:')
-        sex2 = widgets.Dropdown(options=['All', 'Men only', 'Women only'], value='Men only', description='Sex 2:')
+        session2 = widgets.Dropdown(options=['V1', 'V2', 'V3'], value='V3', description='Session 2:')
+        sex2 = widgets.Dropdown(options=['All', 'Men only', 'Women only'], value='All', description='Sex 2:')
         
         outcome2 = widgets.Dropdown(
             options=['Synaptic ratio', 'Neurotransmitter (Loc)', 
