@@ -11,7 +11,7 @@ Dashboard
 </div>
 </center>
 
-:::{iframe} https://stroke-dashboard.db.neurolibre.org/
+:::{iframe} https://stroke-dashboard-bcrr.onrender.com/
 :width: 100%
 :border: 0
 :::
